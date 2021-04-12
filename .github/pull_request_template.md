@@ -1,4 +1,4 @@
-# Info
+# Information
 
-| Related Issue | Linnk |
-| Time spent (h) | For Example 1:30 |
+- Related Issue: Example `#1`
+- Time spent (h): Example `1:30`
